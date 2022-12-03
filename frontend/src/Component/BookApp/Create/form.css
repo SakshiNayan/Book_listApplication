@@ -1,0 +1,35 @@
+.form-creating{
+    text-align: center;
+   
+}
+.head{
+    font-size: 4vw;
+    color: rgb(238, 236, 236);
+    margin-top: -30px;
+}
+p{
+    color: rgb(238, 236, 236);
+    margin-top: -40px;
+}
+.fr-field{
+    width: 100%;
+    margin-top: 20px;
+}
+.input{
+    width: 40%;
+    text-align: left;
+    height: 40px;
+    border-radius: 4px;
+
+}
+.submit{
+    border-color: rgb(214, 202, 33);
+    color:rgb(214, 202, 33) ;
+    border-radius: 4px;
+    padding: 5px 10px 5px 10px;
+    background-color: rgb(16, 16, 112);
+    width: 40%;
+    height: 50px;
+    font-size: 1vw;
+    margin: 40px;
+}

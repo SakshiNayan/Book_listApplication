@@ -1,0 +1,85 @@
+.heading{
+    
+    color: rgb(206, 185, 66);
+    font-size: 3vw;
+    font-family: sans-serif;
+    padding-top: 30px;
+    text-align: center;
+
+}
+#bookList{
+    background-color: rgb(16, 16, 112);
+    height: 200vh;
+    margin-top: -25px;
+    /* display: flex;
+    justify-content: center; */
+    
+}
+.logoutBtn{
+    float: left;
+}
+.add-list{
+    float: right;
+}
+.show-bookBtn{
+    border-color: rgb(214, 202, 33);
+    color:rgb(214, 202, 33) ;
+    border-radius: 4px;
+    padding: 5px 10px 5px 10px;
+    background-color: rgb(16, 16, 112);
+    width: 200px;
+    height: 50px;
+    font-size: 1vw;
+    margin: 50px;
+    /* border: 1px solid rgb(214, 202, 33); */
+}
+.show-bookBtn:hover{
+    cursor: pointer;
+}
+.create-book{
+    background-color:rgb(16, 16, 112) ;
+    height: 100vw;
+}
+
+.cardBook{
+    
+    border: 1px solid grey;
+    width:fit-content;
+    border-radius: 4px;
+    
+}
+h2 , article, h5{
+    color: rgb(223, 222, 222);
+}
+
+#bookItem{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.add-list button{
+    margin-right: 200px;
+    background-color: rgb(214, 202, 33);
+    color:black ;
+    border-radius: 4px;
+    padding: 5px 10px 5px 10px;
+
+    width: 200px;
+    height: 50px;
+    font-size: 1vw;
+   
+}
+.logoutBtn{
+    border-color: rgb(214, 202, 33);
+    color:rgb(214, 202, 33) ;
+    border-radius: 4px;
+    padding: 5px 10px 5px 10px;
+    background-color: rgb(16, 16, 112);
+    width: 200px;
+    height: 50px;
+    font-size: 1vw;
+    margin-top: -50px;
+    margin-left: 20px;
+}
+.cardBook img{
+    width: 300px;
+}

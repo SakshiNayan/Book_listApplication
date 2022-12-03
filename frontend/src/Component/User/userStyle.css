@@ -1,0 +1,96 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    background-color: rgb(144, 185, 247);
+    
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    background-color: rgb(248, 158, 55);
+    
+}
+h1{
+    color: grey;
+    font-family: sans-serif;
+    font-size: 2vw;
+    margin-left: 20px;
+}
+.loginCard{
+    border: 1px solid grey;
+    width: 350px;
+    height: 400px;
+    background-color: #fff;
+    box-shadow:5px 5px #3912c5;
+    border-radius: 5px;
+}
+.regisCard{
+    border: 1px solid grey;
+    width: 350px;
+    height: 450px;
+    background-color: #fff;
+    box-shadow:5px 5px #c58612;
+    border-radius: 5px;
+}
+.field{
+    margin-top: 10px;
+}
+.field button{
+    margin-bottom: 10px;
+}
+.login-form, .form-r{
+    margin-top: 30px;
+}
+input{
+    height: 30px;
+    width: 200px;
+    font-size: 1vw;
+    text-align: center;
+}
+.logBtn{
+    width: 200px;
+    margin-top: 20px;
+    height: 30px;
+    font-size: 1vw;
+    background-color: rgb(95, 95, 228);
+    color: #fff;
+    font-weight: bold;
+    border-radius: 4px;
+}
+.logBtn:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
+.regisLink{
+    float: right;
+    width: 100%;
+    margin-top:10px;
+}
+.regBtn{
+    width: 200px;
+    margin-top: 20px;
+    height: 30px;
+    font-size: 1vw;
+    background-color: rgb(156, 138, 32);
+    color: #fff;
+    font-weight: bold;
+    border-radius: 4px;
+}
+.regBtn:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
+.linksource{
+    padding: 10px 0px 20px 0px;
+}
+.avtar{
+    width: 150px;
+    border-radius: 50%;
+    margin-top: -50px;
+}

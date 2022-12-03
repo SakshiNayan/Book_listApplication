@@ -1,0 +1,12 @@
+.detailList{
+    background-color: rgb(16, 16, 112);
+    height: 100vw;
+}
+.bookHead{
+    font-size: 3vw;
+    color: rgb(223, 219, 219);
+}
+.record{
+    text-align: center;
+
+}
