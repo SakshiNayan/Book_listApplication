@@ -5,6 +5,7 @@
     text-align: center;
     height: 100vh;
     background-color: rgb(144, 185, 247);
+    min-width: -webkit-fill-available;
     
 }
 .container1{
